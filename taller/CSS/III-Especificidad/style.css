@@ -1,0 +1,16 @@
+div#a {
+  background-color: green;
+}
+#a {
+  background-color: yellow;
+}
+div[id="a"] {
+  background-color: blue;
+}
+
+.intro {
+  background-color: yellow;
+}
+h1 {
+  background-color: red;
+}

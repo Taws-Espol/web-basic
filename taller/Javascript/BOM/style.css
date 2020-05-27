@@ -1,0 +1,13 @@
+p {
+  margin-left: 1em;
+}
+div {
+  margin: 1em;
+}
+button:not(#crear) {
+  margin-bottom: 1em;
+}
+#crear {
+  background-color: green;
+  color: white;
+}
