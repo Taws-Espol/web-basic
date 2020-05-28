@@ -15,3 +15,6 @@ Repositorio del taller de Web Basics
 -   [BOM](./taller/Javascript/BOM)
 -   [DOM](./taller/Javascript/DOM)
 -   [ES6](./taller/Javascript/ES6)
+
+### Diapositivas
+-   [Web-Basics](https://docs.google.com/presentation/d/1oIH-q7kP9rfl8qP_AWlqklXX1x3BmHjUCJphqyMyekY)
